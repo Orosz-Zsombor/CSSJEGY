@@ -28,5 +28,13 @@ p{
 ul{
     background-color: white;
 }
-
-
+span{
+    font-weight: bold;
+    
+}
+li{
+    text-align:justify
+}
+img{
+    float: right;
+}
