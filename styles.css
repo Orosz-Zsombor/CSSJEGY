@@ -3,12 +3,13 @@ body{
     color: black;
 }
 #table1{
+    margin: auto;
     width: 980px;
-    margin:auto;
     border: none;
     background-color: #509050;
 }
 #table2{
+    margin: auto;
     width: 940px;
     border: none;
     background-color: white;
@@ -21,5 +22,5 @@ body{
     text-align: center;
 }
 #sor3{
-    
+
 }
