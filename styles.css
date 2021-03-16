@@ -1,0 +1,15 @@
+body{
+    background-color: #9cee59;
+    color: black;
+}
+#table1{
+    width: 980px;
+    margin:auto;
+    border: none;
+    background-color: #509050;
+}
+#table2{
+    width: 940px;
+    border: none;
+    background-color: white;
+}
